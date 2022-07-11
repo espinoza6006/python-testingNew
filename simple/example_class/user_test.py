@@ -41,7 +41,8 @@ class UsertTest(unittest.TestCase):
         self.assertTrue(True)
         self.assertTrue(True)
 
-    # this comment is a test     
+    # this comment is a test 
+    # Hi Duygu this is a comment to test a pull request and to be worh as a team in a future.!! I hope you are learning    
 
 if __name__ == '__main__':
     unittest.main()
